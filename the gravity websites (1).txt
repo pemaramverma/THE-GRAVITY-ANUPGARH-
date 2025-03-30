@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Gravity Anupgarh - JEE & NEET Coaching</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5; color: #333; }
+        header { background: #004080; color: white; text-align: center; padding: 20px; font-size: 28px; font-weight: bold; }
+        nav { text-align: center; padding: 15px; background: #0066cc; }
+        nav a { margin: 0 15px; text-decoration: none; color: white; font-weight: bold; font-size: 18px; }
+        .container { padding: 30px; text-align: center; background: white; margin: 20px auto; width: 80%; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
+        .footer { background: #004080; color: white; text-align: center; padding: 15px; position: relative; bottom: 0; width: 100%; font-size: 16px; font-weight: bold; }
+        ul { list-style: none; padding: 0; }
+        li { padding: 10px; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <header>Welcome to The Gravity Anupgarh - JEE & NEET Coaching</header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#courses">Courses</a>
+        <a href="#faculty">Faculty</a>
+        <a href="#about">About Us</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container" id="home">
+        <h2>Achieve Your Dreams with Expert Guidance</h2>
+        <p>Join The Gravity Anupgarh to excel in JEE & NEET exams with top faculty and best study material.</p>
+    </div>
+    <div class="container" id="courses">
+        <h2>Our Courses</h2>
+        <ul>
+            <li><strong>9th Foundation</strong> - Early preparation for JEE & NEET.</li>
+            <li><strong>10th Foundation</strong> - Strengthening concepts for competitive exams.</li>
+            <li><strong>11th Foundation JEE Batch</strong> - Intensive coaching for JEE aspirants.</li>
+            <li><strong>12th Foundation JEE Batch</strong> - Advanced training for JEE preparation.</li>
+            <li><strong>11th Foundation NEET Batch</strong> - Focused coaching for medical aspirants.</li>
+            <li><strong>12th Foundation NEET Batch</strong> - Comprehensive preparation for NEET.</li>
+            <li><strong>Target Batch JEE & NEET</strong> - Special crash course for exam-ready students.</li>
+            <li><strong>Special 12th Batch for Board Students</strong> - Board exam-oriented coaching.</li>
+            <li><strong>Evening Tuition Classes</strong> - Extra support for school subjects.</li>
+        </ul>
+    </div>
+    <div class="container" id="faculty">
+        <h2>Our Faculty</h2>
+        <ul>
+            <li><strong>ER LOVEJEET SINGH </strong> - Senior Physics Faculty (10+ years of experience)</li>
+            <li><strong>ER RAJARAM CHOUHAN</strong> - Senior Chemistry Faculty (Expert in Organic & Inorganic Chemistry)</li>
+            <li><strong>Mr. VISHAL SINGH RATHORE</strong> - Mathematics Expert (IIT Graduate, 8+ years of experience)</li>
+            <li><strong>Dr. Priya Mehta</strong> - Biology Faculty (MBBS, NEET Specialist)</li>
+            <li><strong>RAMAN MAM</strong> - Foundation Batch Mentor (Expert in 9th & 10th Concepts)</li>
+            <li><strong>NIRMLA MAM</strong> - Foundation Batch Mentor (Expert in 9th & 10th Concepts)</li>
+        </ul>
+    </div>
+    <div class="container" id="about">
+        <h2>About Us</h2>
+        <p>The Gravity Anupgarh is dedicated to nurturing young minds and helping them achieve their engineering and medical dreams.</p>
+    </div>
+    <div class="container" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@thegravityanupgarh.com</p>
+        <p>Phone: Lovejeet Singh - +91 81188 00211 </p>
+        <p>Phone: Rajaram Chouhan - +91 90798 060294 </p>
+        <p>Phone: Vishal Singh Rathore - +91 95302 62495 </p>
+    </div>
+    <div class="footer">&copy; 2025 The Gravity Anupgarh - JEE & NEET Coaching</div>
+</body>
+</html>
